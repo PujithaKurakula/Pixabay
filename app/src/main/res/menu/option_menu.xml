@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Flowers"
+        android:id="@+id/flower">
+
+    </item>
+
+    <item
+        android:title="Cites"
+        android:id="@+id/bird"/>
+    <item
+        android:title="Universities"
+        android:id="@+id/car"/>
+    <item
+        android:title="Chocolates"
+        android:id="@+id/hero"/>
+
+    <item
+        android:title="Pizza"
+        android:id="@+id/pizza"/>
+    <item
+
+        android:title="IceCreams"
+        android:id="@+id/ice"/>
+    <item
+        android:title="Dolls"
+        android:id="@+id/doll"/>
+    <item
+        android:title="TeadyBears"
+        android:id="@+id/teddy"/>
+    <item
+        android:title="FastFoods"
+        android:id="@+id/foods"/>
+    <item
+        android:title="Cosmetics"
+        android:id="@+id/cosmetics"/>
+
+</menu>
